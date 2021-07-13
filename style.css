@@ -115,6 +115,10 @@ hr{
 }
 .course-detail{
     padding-left: 5%;
+
+}
+.course-author{
+    color: lightcoral;
 }
 .course-duration{
     color: #FF4A60;
